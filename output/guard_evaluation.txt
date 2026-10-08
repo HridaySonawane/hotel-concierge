@@ -1,0 +1,9 @@
+Safety guard evaluation (23 hand-labeled examples)
+------------------------------------------------------------
+Overall accuracy: 100.0% (23/23)
+
+False positives (normal input wrongly flagged): 0
+
+False negatives (abnormal input missed): 0
+
+Wrong category: 0

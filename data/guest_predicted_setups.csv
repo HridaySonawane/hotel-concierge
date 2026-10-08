@@ -1,0 +1,61 @@
+guest_id,source,lighting,music_genre,tv_genre,dining_pref,dnd_enabled,room_temp_f,wake_up_time
+guest_001,own_history (3 past stays),cool,classical,news,vegetarian,True,74.2,06:00
+guest_002,own_history (2 past stays),warm,none,documentaries,non_vegetarian,False,68.5,06:00
+guest_003,own_history (6 past stays),bright,jazz,movies,non_vegetarian,True,73.0,09:00
+guest_004,own_history (2 past stays),warm,classical,documentaries,non_vegetarian,False,70.2,09:00
+guest_005,own_history (5 past stays),cool,jazz,sports,non_vegetarian,False,69.3,05:00
+guest_006,own_history (3 past stays),warm,classical,sports,vegetarian,False,67.2,06:00
+guest_007,"similar_guests (Silver, North America, n=3 stays)",warm,pop,sports,non_vegetarian,True,69.8,06:00
+guest_044,"similar_guests (Silver, Middle East, n=12 stays)",warm,none,documentaries,non_vegetarian,False,70.4,05:00
+guest_009,own_history (5 past stays),bright,lofi,news,vegan,False,70.5,06:00
+guest_010,own_history (6 past stays),bright,none,news,vegetarian,True,65.5,09:00
+guest_011,own_history (6 past stays),warm,none,movies,vegan,False,67.6,10:00
+guest_012,own_history (2 past stays),cool,pop,sports,no_preference,False,67.8,06:00
+guest_013,own_history (4 past stays),bright,classical,movies,non_vegetarian,True,71.9,06:00
+guest_014,own_history (5 past stays),warm,lofi,news,no_preference,False,70.0,05:00
+guest_015,own_history (5 past stays),dim,pop,news,non_vegetarian,False,69.7,06:00
+guest_016,own_history (8 past stays),warm,none,news,non_vegetarian,False,64.4,06:00
+guest_017,own_history (5 past stays),dim,pop,sports,no_preference,False,70.9,09:00
+guest_018,own_history (8 past stays),warm,jazz,documentaries,no_preference,False,69.8,08:00
+guest_019,own_history (5 past stays),dim,classical,news,non_vegetarian,False,67.4,07:00
+guest_041,"similar_guests (Silver, East Asia, n=4 stays)",dim,classical,news,vegetarian,False,71.4,06:00
+guest_021,own_history (3 past stays),dim,none,news,non_vegetarian,True,73.3,08:00
+guest_022,own_history (5 past stays),cool,pop,documentaries,vegetarian,False,70.3,07:00
+guest_023,own_history (5 past stays),warm,jazz,documentaries,non_vegetarian,False,67.3,08:00
+guest_024,own_history (6 past stays),dim,lofi,documentaries,vegetarian,True,75.3,06:00
+guest_025,own_history (4 past stays),bright,pop,documentaries,non_vegetarian,False,70.8,04:00
+guest_026,own_history (5 past stays),dim,lofi,news,vegetarian,False,73.1,08:00
+guest_027,own_history (3 past stays),warm,pop,documentaries,vegetarian,False,72.0,08:00
+guest_028,own_history (2 past stays),warm,pop,sports,non_vegetarian,False,71.6,08:00
+guest_029,own_history (2 past stays),dim,none,documentaries,non_vegetarian,False,74.0,05:00
+guest_030,own_history (5 past stays),warm,lofi,movies,non_vegetarian,False,69.9,07:00
+guest_031,own_history (2 past stays),warm,pop,sports,non_vegetarian,True,71.4,09:00
+guest_032,own_history (5 past stays),dim,classical,movies,vegan,False,68.8,05:00
+guest_033,own_history (5 past stays),bright,classical,documentaries,vegetarian,True,69.3,07:00
+guest_034,own_history (4 past stays),dim,none,documentaries,no_preference,False,67.2,05:00
+guest_035,own_history (2 past stays),bright,lofi,documentaries,non_vegetarian,True,73.7,09:00
+guest_036,"similar_guests (Silver, South Asia, n=5 stays)",cool,pop,sports,no_preference,False,70.8,05:00
+guest_037,own_history (8 past stays),warm,none,sports,non_vegetarian,False,69.7,07:00
+guest_038,own_history (6 past stays),warm,pop,news,no_preference,True,68.7,09:00
+guest_040,"similar_guests (Silver, Europe, n=2 stays)",bright,jazz,documentaries,non_vegetarian,True,75.8,07:00
+guest_040,"similar_guests (Silver, Europe, n=2 stays)",bright,jazz,documentaries,non_vegetarian,True,75.8,07:00
+guest_041,"similar_guests (Silver, East Asia, n=4 stays)",dim,classical,news,vegetarian,False,71.4,06:00
+guest_042,own_history (3 past stays),warm,none,sports,vegetarian,True,68.1,07:00
+guest_043,own_history (3 past stays),warm,pop,movies,no_preference,False,73.6,05:00
+guest_044,"similar_guests (Silver, Middle East, n=12 stays)",warm,none,documentaries,non_vegetarian,False,70.4,05:00
+guest_045,own_history (2 past stays),dim,jazz,news,vegan,True,67.1,05:00
+guest_046,own_history (5 past stays),warm,pop,news,non_vegetarian,False,68.9,05:00
+guest_047,own_history (6 past stays),bright,jazz,documentaries,non_vegetarian,False,69.0,06:00
+guest_048,own_history (8 past stays),warm,jazz,movies,vegetarian,False,70.3,06:00
+guest_049,own_history (3 past stays),dim,none,sports,vegetarian,False,71.7,06:00
+guest_050,own_history (5 past stays),cool,none,sports,vegetarian,False,68.4,07:00
+guest_051,own_history (8 past stays),warm,classical,documentaries,non_vegetarian,False,69.0,07:00
+guest_052,own_history (4 past stays),dim,none,sports,non_vegetarian,True,72.0,09:00
+guest_053,own_history (5 past stays),cool,pop,sports,vegan,True,68.3,08:00
+guest_054,own_history (3 past stays),dim,classical,news,non_vegetarian,False,73.1,08:00
+guest_055,own_history (8 past stays),dim,jazz,news,vegetarian,False,71.4,04:00
+guest_056,own_history (2 past stays),cool,pop,news,no_preference,True,71.1,05:00
+guest_057,own_history (3 past stays),dim,none,documentaries,vegetarian,False,72.9,06:00
+guest_058,own_history (6 past stays),warm,jazz,documentaries,non_vegetarian,False,64.7,08:00
+guest_059,own_history (8 past stays),warm,none,movies,no_preference,False,68.5,04:00
+guest_060,own_history (4 past stays),warm,lofi,movies,vegan,False,70.7,05:00

@@ -1,0 +1,61 @@
+guest_id,loyalty_tier,home_region
+guest_001,Gold,North America
+guest_002,Silver,Middle East
+guest_003,Platinum,Europe
+guest_004,Silver,Middle East
+guest_005,Gold,South Asia
+guest_006,Gold,East Asia
+guest_007,Silver,North America
+guest_008,Silver,Middle East
+guest_009,Gold,South Asia
+guest_010,Platinum,East Asia
+guest_011,Platinum,South Asia
+guest_012,Silver,South Asia
+guest_013,Gold,South Asia
+guest_014,Gold,Europe
+guest_015,Gold,Europe
+guest_016,Platinum,South Asia
+guest_017,Gold,Middle East
+guest_018,Platinum,South Asia
+guest_019,Gold,South Asia
+guest_020,Silver,East Asia
+guest_021,Gold,Middle East
+guest_022,Gold,Europe
+guest_023,Gold,North America
+guest_024,Platinum,Middle East
+guest_025,Gold,North America
+guest_026,Gold,East Asia
+guest_027,Gold,South Asia
+guest_028,Silver,South Asia
+guest_029,Silver,Middle East
+guest_030,Gold,Middle East
+guest_031,Silver,North America
+guest_032,Gold,Middle East
+guest_033,Gold,Middle East
+guest_034,Gold,Europe
+guest_035,Silver,Middle East
+guest_036,Silver,South Asia
+guest_037,Platinum,Middle East
+guest_038,Platinum,North America
+guest_039,Silver,Europe
+guest_040,Silver,Europe
+guest_041,Silver,East Asia
+guest_042,Gold,East Asia
+guest_043,Gold,North America
+guest_044,Silver,Middle East
+guest_045,Silver,Middle East
+guest_046,Gold,South Asia
+guest_047,Platinum,Middle East
+guest_048,Platinum,Europe
+guest_049,Gold,East Asia
+guest_050,Gold,South Asia
+guest_051,Platinum,East Asia
+guest_052,Gold,East Asia
+guest_053,Gold,Middle East
+guest_054,Gold,South Asia
+guest_055,Platinum,Europe
+guest_056,Silver,East Asia
+guest_057,Gold,South Asia
+guest_058,Platinum,Middle East
+guest_059,Platinum,East Asia
+guest_060,Gold,South Asia
